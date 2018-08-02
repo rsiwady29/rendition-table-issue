@@ -1,4 +1,4 @@
-# Rendition table issue
+# Rendition table issue with `onRowClick`
 
 This is a sample project to reproduce https://github.com/resin-io-modules/rendition/issues/534
 
